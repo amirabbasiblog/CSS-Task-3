@@ -1,0 +1,77 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.container1 {
+    height: 600px;
+    border: 2px groove black;
+}
+
+.headingcontainer {
+    line-height: 5%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#heading1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: smaller;
+}
+
+#heading2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+#heading3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: large;
+    letter-spacing: 2px;
+}
+
+nav {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    border-top: 3px solid black;
+    border-bottom: 1px solid black;  
+}
+
+nav p {
+    display: inline-block;
+    margin-right: 120px;
+}
+
+nav p:last-child {
+    margin-right: 0;
+}
+
+.imgcontainer {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    padding-left: 15px;
+
+
+}
+
+img {
+    width: 305px;
+    height: 250px;
+}
+
+.pera {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.pera p {
+    text-align: center;
+}
+
+
+
